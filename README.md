@@ -2,6 +2,9 @@
 
 Periskope is a sleek, real-time chat app built with Next.js, React, and Supabase. It offers instant messaging, contact management, and a responsive design for both desktop and mobile.
 
+## Live Link
+https://chat-app-repo-phti.vercel.app
+
 ![Periskope Screenshot](public/screenshot.png)
 
 ## Features
